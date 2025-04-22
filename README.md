@@ -8,3 +8,11 @@ Feel free to explore my repositories and contact me if you'd like to collaborate
 
 - [LinkedIn Profile](https://www.linkedin.com/in/kirankumarmalothu/)
 - [Personal Website](https://malothu-kirankumar.netlify.app/)
+
+---
+
+## 🛠️ Technical Expertise
+**Core Competencies**  
+```
+Autonomous Navigation  ˑ◞ˑ ROS/ROS2  ˑ◞ˑ Motion Planning  ˑ◞ˑ Computer Vision  ˑ◞ˑ Embedded Systems  ˑ◞ˑ Robot Manipulation  ˑ◞ˑ AI for Robotics.
+```
