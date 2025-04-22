@@ -14,5 +14,14 @@ Feel free to explore my repositories and contact me if you'd like to collaborate
 ## 🛠️ Technical Expertise
 **Core Competencies**  
 ```
-Autonomous Navigation  ˑ◞ˑ ROS/ROS2  ˑ◞ˑ Motion Planning  ˑ◞ˑ Computer Vision  ˑ◞ˑ Embedded Systems  ˑ◞ˑ Robot Manipulation  ˑ◞ˑ AI for Robotics.
+Autonomous Navigation
+Python
+OpenCV
+Gazebo
+ROS/ROS2
+Motion Planning
+Computer Vision
+Embedded Systems
+Robot Manipulation
+AI for Robotics.
 ```
