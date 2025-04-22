@@ -13,7 +13,7 @@ Feel free to explore my repositories and contact me if you'd like to collaborate
 
 ## 🛠️ Technical Expertise
 **Core Competencies**  
-```
+
 - Autonomous Navigation
 - Python
 - OpenCV
@@ -24,4 +24,4 @@ Feel free to explore my repositories and contact me if you'd like to collaborate
 - Embedded Systems
 - Robot Manipulation
 - AI for Robotics.
-```
+
